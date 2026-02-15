@@ -49,14 +49,14 @@ img:hover{
     display: flex;
     justify-content: center;
     margin: 80px;
-    height: 50px;
+    height: 70px;
     align-items: center;
 }
 .msg-container{
     background-color: #173051;
     color: white;
-    height: 38px;
-    width: 170px;
+    height: 50px;
+    width: 200px;
     margin: 5px;
     justify-content: center;
     display:flex;
@@ -64,4 +64,5 @@ img:hover{
     align-items: center;
     border-radius:8%;
     font-size: 1.25rem;
+
 }
